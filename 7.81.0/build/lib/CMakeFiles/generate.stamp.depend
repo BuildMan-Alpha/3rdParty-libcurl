@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/dev/3rdParty/libcurl/7.81.0/build/lib/Makefile.inc.cmake
+C:/dev/3rdParty/libcurl/7.81.0/lib/CMakeLists.txt
+C:/dev/3rdParty/libcurl/7.81.0/lib/Makefile.inc
+C:/dev/3rdParty/libcurl/7.81.0/lib/curl_config.h.cmake

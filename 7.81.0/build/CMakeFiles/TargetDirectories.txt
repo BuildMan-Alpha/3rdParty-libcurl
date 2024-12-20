@@ -1,0 +1,8 @@
+C:/dev/3rdParty/libcurl/7.81.0/build/CMakeFiles/uninstall.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/CMakeFiles/INSTALL.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/lib/CMakeFiles/libcurl.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/lib/CMakeFiles/INSTALL.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/src/CMakeFiles/curl.dir
+C:/dev/3rdParty/libcurl/7.81.0/build/src/CMakeFiles/INSTALL.dir
